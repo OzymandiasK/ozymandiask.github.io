@@ -1,6 +1,6 @@
 ---
 title: Test Alex
-date: 2023-07-09
+date: 2023-07-09 18:00:00
 categories: [test]
 tags: [personal]
 
