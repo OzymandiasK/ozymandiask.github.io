@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2014%2F10%2F17%2Farts%2Fdesign%2F20141017-GOYA-slide-BJ2C%2F20141017-GOYA-slide-BJ2C-superJumbo.jpg&f=1&nofb=1&ipt=6c386210c6834b4311a27732ec8e715bdd1237b65f6cbcda06e9f3aa40deb3c9&ipo=images"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
